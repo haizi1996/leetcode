@@ -19,6 +19,12 @@ package dynamic;
  * 96. 不同的二叉搜索树
  * @see UniqueBinarySearchTrees
  *
+ * 面试题 08.11. 硬币
+ * @see CoinIcci
+ *
+ * 面试题14- I. 剪绳子
+ * @see JianShengZiLcof
+ *
  *
  */
 

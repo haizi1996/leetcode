@@ -40,6 +40,11 @@ public class UniqueBinarySearchTrees {
     }
 
     public static void main(String[] args) {
-        System.out.println(numTrees(3));
+//        System.out.println(numTrees(3));
+
+        String str1 = new String("123");
+        String str2 = new String("123");
+        System.out.println(str1 == str2);
+        System.out.println(str1.intern() == str2.intern());
     }
 }

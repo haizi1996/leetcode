@@ -48,7 +48,6 @@ public class UniquePaths {
         return dp[n-1];
     }
 
-
     public static void main(String[] args) {
         System.out.println(uniquePaths(3 , 2));
     }
