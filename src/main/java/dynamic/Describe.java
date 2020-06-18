@@ -25,6 +25,8 @@ package dynamic;
  * 面试题14- I. 剪绳子
  * @see JianShengZiLcof
  *
+ * 面试题 17.06. 2出现的次数
+ * @see NumberOf2sInRange
  *
  */
 
